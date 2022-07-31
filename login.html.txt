@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<title> Store </title>
+<head> Store </head>
+<body>
+<h1> This is our official store... </h1>
+<form>
+<legend> Login to continue </legend>
+<input type="text" placeholder="Username"> 
+<br>
+<input type="password" placeholder="Password">
+<button> Login </button>
+</form>
+</body>
+</html>
